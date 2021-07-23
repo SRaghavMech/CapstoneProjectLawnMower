@@ -37,3 +37,24 @@ After preliminary designs, we set a criteria to choose one of the design
 • Precision – 10 %
 
 Obtainability of parts factor clenches the highest importance due to the designing and fabrication of the device.
+
+## Theory
+Designing Consideration takes into account the following
+
+o Cutting Force
+
+o Blade torque
+
+o Power requirement of motor
+
+o Velocity of Machine
+
+Motor to move the machine is based on number of revolutions per speed. High torque will be needed to sufficiently power the power.
+
+## Mathematical Calculations
+![image](https://user-images.githubusercontent.com/87862054/126787698-7363e7d4-778c-4064-bd86-f4ffe75e040e.png)
+We assumed coefficient of friction to be 0.1 used in general case of cutting grass, and weight of blade and rpm.
+![image](https://user-images.githubusercontent.com/87862054/126787823-69e3cbf4-f120-4796-8898-78abfa893313.png)
+![image](https://user-images.githubusercontent.com/87862054/126787871-51f0e6dd-591c-4fed-884b-138a5a21f673.png)
+
+## Analytical Design
