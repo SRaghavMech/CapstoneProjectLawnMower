@@ -23,10 +23,17 @@ only two powered wheels which makes the device move and two non-powered wheels w
 
 ## Selection of Design
 After preliminary designs, we set a criteria to choose one of the design
+
 • Obtainability of parts – 40%
+
 • Cost – 10%
+
 • Complexity – 15%
+
 • Size – 15%
+
 • Power – 15%
+
 • Precision – 10 %
+
 Obtainability of parts factor clenches the highest importance due to the designing and fabrication of the device.
