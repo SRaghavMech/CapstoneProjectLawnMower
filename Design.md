@@ -86,4 +86,8 @@ Tyre
 
 ![image](https://user-images.githubusercontent.com/87862054/126788676-62581289-ca75-44c2-95ef-59c141806508.png)
 
+Caster Assembly and Exploed view
+
+![image](https://user-images.githubusercontent.com/87862054/126788913-773bf1a7-74c2-4cb2-ad26-e302f5b2a427.png)
+![image](https://user-images.githubusercontent.com/87862054/126788948-e06c4338-7792-4969-a2cf-9bff15ba66f7.png)
 
