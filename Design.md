@@ -53,8 +53,23 @@ Motor to move the machine is based on number of revolutions per speed. High torq
 
 ## Mathematical Calculations
 ![image](https://user-images.githubusercontent.com/87862054/126787698-7363e7d4-778c-4064-bd86-f4ffe75e040e.png)
+
 We assumed coefficient of friction to be 0.1 used in general case of cutting grass, and weight of blade and rpm.
+
 ![image](https://user-images.githubusercontent.com/87862054/126787823-69e3cbf4-f120-4796-8898-78abfa893313.png)
+
 ![image](https://user-images.githubusercontent.com/87862054/126787871-51f0e6dd-591c-4fed-884b-138a5a21f673.png)
 
 ## Analytical Design
+![image](https://user-images.githubusercontent.com/87862054/126788010-a410149c-0571-4627-b741-21482fb4940d.png)
+
+## Modification of Blade Design
+![image](https://user-images.githubusercontent.com/87862054/126788226-a5062a9f-07bd-44d6-b4b4-71f7e22376c3.png)
+![image](https://user-images.githubusercontent.com/87862054/126788253-86bc4bee-d6a8-4d1f-a96a-f930e2e05e57.png)
+
+## CAD Models and Drawings
+Caster Mounting Plate
+
+![image](https://user-images.githubusercontent.com/87862054/126788314-a52c2269-c718-4172-9cf6-f837ea833312.png)
+
+
