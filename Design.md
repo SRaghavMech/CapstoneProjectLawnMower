@@ -91,3 +91,116 @@ Caster Assembly and Exploed view
 ![image](https://user-images.githubusercontent.com/87862054/126788913-773bf1a7-74c2-4cb2-ad26-e302f5b2a427.png)
 ![image](https://user-images.githubusercontent.com/87862054/126788948-e06c4338-7792-4969-a2cf-9bff15ba66f7.png)
 
+Pivot Shaft
+
+
+![image](https://user-images.githubusercontent.com/87862054/126794659-96472645-8d68-46ab-bbfe-b6017b765787.png)
+
+![image](https://user-images.githubusercontent.com/87862054/126795204-c77ed698-863f-447a-b97e-99a47c605f49.png)
+
+Motor
+
+
+![image](https://user-images.githubusercontent.com/87862054/126795647-75f1a382-5135-4307-b947-3139ec103083.png)
+
+![image](https://user-images.githubusercontent.com/87862054/126795714-603bea0f-010e-480c-9e13-ee107f2cdc4a.png)
+
+Blade
+
+
+![image](https://user-images.githubusercontent.com/87862054/126795902-8f404416-19b4-4559-9756-a7e0625fde18.png)
+
+![image](https://user-images.githubusercontent.com/87862054/126796147-87e358e6-b3d5-4474-8394-c714d1d7beac.png)
+
+Base
+
+
+![image](https://user-images.githubusercontent.com/87862054/126796336-31317b20-c1c7-46f6-b165-86068211b482.png)
+
+![image](https://user-images.githubusercontent.com/87862054/126796406-ba616165-ac44-4965-8074-f9911e887905.png)
+
+Nut
+
+
+![image](https://user-images.githubusercontent.com/87862054/126796490-03194118-b42a-4d57-9eca-5978458925aa.png)
+
+![image](https://user-images.githubusercontent.com/87862054/126796530-84746651-f94b-448e-b2a5-f7ee52a24ca7.png)
+
+Bolt
+
+
+![image](https://user-images.githubusercontent.com/87862054/126796601-8e704a95-5f1c-43c8-82b9-48fb1c4555d9.png)
+
+![image](https://user-images.githubusercontent.com/87862054/126796650-c9553cbc-9044-4950-a8a0-2cde625abb2e.png)
+
+Full Assembly and exploded view
+
+
+![image](https://user-images.githubusercontent.com/87862054/126796745-8792b6a6-02d4-4f44-a0d9-d9a7bd3c411b.png)
+
+![image](https://user-images.githubusercontent.com/87862054/126796782-2c1b997a-d65c-4d06-a563-111d2ef50958.png)
+
+![image](https://user-images.githubusercontent.com/87862054/126796827-44bda140-b150-46df-8530-def10877ff6c.png)
+
+![image](https://user-images.githubusercontent.com/87862054/126796863-466937e8-8e69-4f91-b593-d20a0f4e1a5d.png)
+
+Bill of Material (BOM)
+
+![image](https://user-images.githubusercontent.com/87862054/126796920-367fb259-4c14-4942-91ff-1224e2d69d33.png)
+
+## Structural Analysis
+Structural analysis comprises the set of physical rules and mathematics required to study and
+predicts the behaviour of structures. The subjects of structural analysis are engineering artefacts
+whose integrity is judged largely based upon their ability to withstand loads; they commonly
+include buildings, bridges, aircraft, and ships. Structural analysis incorporates the fields of mechanics and dynamics as well as the many failure theories. From a theoretical perspective
+the primary goal of structural analysis is the computation of deformations, internal forces, and
+stresses. Structural analysis can be seen more theoretically as a process to drive the engineering
+design process or verify the soundness of a design without a need of directly testing it.
+
+## Pivot Shaft
+Material Property and geometry data were assigned. The conditions are as follows:
+ Material :
+ Force: 50 N is applied at the centre and sides are fixed support
+
+![image](https://user-images.githubusercontent.com/87862054/126799525-d800abc5-7dfb-4d07-ab56-6b3e2335aaba.png)
+
+![image](https://user-images.githubusercontent.com/87862054/126799641-3a64c6e8-78e7-4576-9db5-ac93fb672c8b.png)
+
+## Base
+Material Property and geometry data were assigned. The conditions are as follows:
+ Material:
+ Force: 50 N is applied at the centre and sides are fixed support
+
+
+![image](https://user-images.githubusercontent.com/87862054/126799764-edb38774-6353-4234-9406-af9a466ab035.png)
+
+![image](https://user-images.githubusercontent.com/87862054/126799792-3af9b851-9fa5-454c-a5f2-0b0157b354f3.png)
+
+## Figure 34 Total Deformation (Base)
+## Results
+
+
+![askdgjashdjkashd](https://user-images.githubusercontent.com/87862054/126800229-5c638cd8-42cb-4fcc-b80f-80c3047d3677.PNG)
+
+## Gantt chart
+
+
+![image](https://user-images.githubusercontent.com/87862054/126800354-52f91f37-fd11-44ee-b52c-a23fac29d06f.png)
+
+## References
+1. Mclarin NJ, Cenek PD, Jamieson NJ, Mclarin MW (1994) Frictional
+Characteristics of Roadside Grass Types Cenek Frictional Characteristics
+of Roadside Grass Types. 1–11
+2. Daniyan I, Balogun V, Adeodu A, et al (2020) Development and
+performance evaluation of a robot for lawn mowing. Procedia Manuf
+49:42–48. https://doi.org/10.1016/j.promfg.2020.06.009
+
+
+
+
+
+
+
+
+
+
