@@ -176,7 +176,7 @@ Material Property and geometry data were assigned. The conditions are as follows
 
 ![image](https://user-images.githubusercontent.com/87862054/126799792-3af9b851-9fa5-454c-a5f2-0b0157b354f3.png)
 
-## Figure 34 Total Deformation (Base)
+Figure 34 Total Deformation (Base)
 ## Results
 
 
